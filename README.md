@@ -5,7 +5,7 @@ Include 2 main parts:
 - Use pykafka to create python kafka clients as producer and consumer
  
 Structure: <br/>
-![Structure](https://github.com/whmou/docker-kakfa-pykafka-clients/blob/master/structure.png){:height="300px" width="300px"}
+![Structure](https://github.com/whmou/docker-kakfa-pykafka-clients/blob/master/structure.png = 300x300)
 
 ## Kafka by Docker 
 ### Start the docker kafka service
