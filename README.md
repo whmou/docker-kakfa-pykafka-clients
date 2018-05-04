@@ -34,7 +34,7 @@ test
 ## Pykafka producer & consumer
 ### pip install [pykafka](https://github.com/Parsely/pykafka)
 ```console
-$sudo pip install pykafka
+$ sudo pip install pykafka
 ```
 ### pykafka producer
 
